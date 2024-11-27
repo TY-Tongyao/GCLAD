@@ -14,19 +14,25 @@ The five public datasets used in the paper are shown below.
 The datasets can be downloaded from the following:
 
 ### Cora Dataset
-The Cora dataset comes from the link below: https://paperswithcode.com/dataset/cora
+Cora[29]: https://linqs.org/datasets/
 
 ### Citeseer Dataset
-The Citeseer dataset comes from the link below: https://paperswithcode.com/dataset/citeseer
+Citeseer[29]: https://linqs.org/datasets/
 
 ### Pubmed Dataset
-The Pubmed dataset comes from the link below: https://paperswithcode.com/dataset/pubmed
+Pubmed[29]: https://linqs.org/datasets/
 
 ### Flickr Dataset
-The Flickr dataset comes from the link below: https://brightdata.com/products/datasets/image/flickr
+Flickr[30]: https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
 
 ### Blogcatalog Dataset
-The Blogcatalog dataset comes from the link below: https://www.kaggle.com/datasets/pfluoo/blogcatalog
+Blogcatalog[30]: https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
+
+We added the links in Section IV. A. “Experimental Settings” (Page 7).
+
+[29] Collective classification in network data, AI magazine 2008.
+[30] Relational learning via latent social dimensions, KDD 2009.
+
 
 
 
@@ -42,4 +48,4 @@ Python package information is summarized in **requirements.txt**:
 
 ### Quick Start
 
-python run.py
+python execute.py
